@@ -10,7 +10,7 @@
  Procedure Division.
  Display-Routine.
          Display erase.
-    Display "Enter NUM1 = " with no advancing.
+    Display "Enter NUM1 = " with noadvancing.
     Accept num1.
     Display "Enter NUM2 = " with no advancing.
     Accept num2.
